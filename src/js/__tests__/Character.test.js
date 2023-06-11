@@ -1,4 +1,5 @@
 import Character from '../Character';
+
 test.each([
   ['Федя', 8],
   ['Федя', 'yyyy'],
